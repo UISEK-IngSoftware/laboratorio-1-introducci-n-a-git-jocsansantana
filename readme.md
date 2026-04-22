@@ -14,10 +14,9 @@ IMPORTANTE: Leer detenidamente las instrucciones del laboratorio.
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo:** [Escribe tu nombre completo aquí]
-- **Número de estudiante:** [Tu número/código de estudiante]
-- **Carrera:** [Tu carrera/programa académico]
-- **Fecha de inicio:** [Fecha en que comenzaste el laboratorio]
+- **Nombre completo:** Jocsan Kavir Santana Zambrano
+- **Carrera:** Ingeniería de software
+- **Fecha de inicio:** 20 de abril del 2026
 
 > **📋 Instrucción**: Edita este archivo README.md y completa tu información personal arriba. Esto debe ser tu **primer commit** del laboratorio.
 
